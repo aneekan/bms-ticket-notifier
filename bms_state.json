@@ -1,10 +1,91 @@
 {
-  "shows": {},
+  "shows": {
+    "IGMH|83961|20260717|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "08:40 AM",
+      "date": "20260717",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|83961|20260717|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "08:40 AM",
+      "date": "20260717",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "IGMH|83962|20260717|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "12:15 PM",
+      "date": "20260717",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|83962|20260717|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "12:15 PM",
+      "date": "20260717",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "IGMH|83963|20260717|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "03:50 PM",
+      "date": "20260717",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|83963|20260717|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "03:50 PM",
+      "date": "20260717",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "IGMH|83964|20260717|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "07:25 PM",
+      "date": "20260717",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|83964|20260717|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "07:25 PM",
+      "date": "20260717",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "IGMH|83965|20260717|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "11:00 PM",
+      "date": "20260717",
+      "cat": "ROYAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "IGMH|83965|20260717|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "11:00 PM",
+      "date": "20260717",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260717": "AVAILABLE",
+    "20260717": "BOOKABLE",
     "20260718": "AVAILABLE",
     "20260719": "AVAILABLE",
-    "20260720": "BOOKABLE",
+    "20260720": "AVAILABLE",
     "20260721": "AVAILABLE",
     "20260722": "AVAILABLE",
     "20260723": "AVAILABLE",
@@ -13,6 +94,7 @@
     "20260726": "AVAILABLE",
     "20260727": "AVAILABLE",
     "20260728": "AVAILABLE",
-    "20260729": "AVAILABLE"
+    "20260729": "AVAILABLE",
+    "20260730": "AVAILABLE"
   }
 }
